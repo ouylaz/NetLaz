@@ -1,5 +1,5 @@
 <div align=center>
-<img align="center" src="Img/Banniere.png" width="100%">
+<img align="center" src="Img/Banniere.png" width="50%">
 
 # 🚀 NetLaz
 
