@@ -1,10 +1,6 @@
 <div align=center>
 
 # 🚀 NetLaz
-![](https://img.shields.io/github/license/Al3xUI/Clarity-Tool)
-![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/Al3xUI/Clarity-Tool)
-![](https://img.shields.io/github/stars/Al3xUI/Clarity-Tool)
 
 **NetLaz** est une bibliothèque multifonction 🛠️ inspiré de RedTiger conçue pour effectuer diverses tâches liées à l'OSINT (Open Source Intelligence), à la cybersécurité 🔐 et à la gestion d'informations numériques. Que vous ayez besoin de rechercher des informations sur une IP, d'extraire des détails sur un serveur Discord, ou même de copier des pages web, NetLaz est là pour vous assister.
 
